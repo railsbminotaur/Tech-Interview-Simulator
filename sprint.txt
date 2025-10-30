@@ -1,0 +1,2 @@
+# Daily Notes
+Add tests to prevent common injection attacks
